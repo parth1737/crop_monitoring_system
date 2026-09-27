@@ -1,0 +1,7 @@
+disease_class,disease_name,recommended_pesticide,active_ingredient,dosage_per_hectare,water_volume_per_ha,spray_interval_days,safety_buffer_meters,application_notes
+Caterpillar and Semilooper Pest Attack,Caterpillar & Semilooper Infestation,Coragen 20 SC,Chlorantraniliprole 18.5% w/w,150 ml,500 L,14,10,Spray during early larval stages; target upper and middle foliage.
+Healthy,Healthy Soybean Crop,N/A - Organic Foliar Micronutrient,Seaweed Extract & Zinc Chelates,500 ml,400 L,30,0,Apply balanced foliar micronutrients to maintain vigor and immunity.
+Rust,Asian Soybean Rust,Priaxor 500 SC,Fluxapyroxad + Pyraclostrobin,300 ml,500 L,14,15,Apply at first sign of rust pustules or R1-R3 flowering stage.
+Spectoria_Brown_Spot,Septoria Brown Spot,Quadris Top SC,Azoxystrobin + Difenoconazole,400 ml,500 L,14,10,Apply at V4 to R2 stage; ensure thorough canopy coverage.
+frog_eye,Frogeye Leaf Spot,Headline AMP,Pyraclostrobin + Metconazole,350 ml,500 L,14,10,Spray at onset of leaf lesions; avoid late pod-fill application.
+mosaic,Soybean Mosaic Virus,Confidor 200 SL (Vector Control),Imidacloprid 17.8% SL,125 ml,400 L,10,10,Target aphid vector control; remove severely infected plants immediately.
